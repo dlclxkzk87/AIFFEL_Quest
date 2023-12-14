@@ -36,6 +36,11 @@
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화했는지
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
 
+<img width="704" alt="image" src="https://github.com/dlclxkzk87/AIFFEL_Quest/assets/81279307/7d4573e0-8deb-48b0-98ff-378cec0c257f">   
+
+<img width="385" alt="image" src="https://github.com/dlclxkzk87/AIFFEL_Quest/assets/81279307/e3359081-0f73-4aa2-aed1-eec03a1c6953">
+
+
 
 # Retrospect
   
