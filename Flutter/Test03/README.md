@@ -36,6 +36,18 @@
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화했는지
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
 
+<img width="303" alt="image" src="https://github.com/dlclxkzk87/AIFFEL_Quest/assets/81279307/ff26b026-d52c-4068-82b1-6599e7c7fc32">   
+   
+<img width="303" alt="image" src="https://github.com/dlclxkzk87/AIFFEL_Quest/assets/81279307/2bd82875-6b90-477b-9cbb-2d50271f5ddc">   
+      
+<img width="194" alt="image" src="https://github.com/dlclxkzk87/AIFFEL_Quest/assets/81279307/f600cd4c-da44-4587-b3a9-6fe6049e0a72">   
+   
+# RetroSpcet
+stack과 navigator, pop, pushnamed, route를 사용하여 페이지간 데이터 이동을 구현하는 프로제트인데
+연습한대로 책을 보면서 다시 구현을 해볼려고 했지만 버튼과 이미지를 분리하는 부분이 어려웠고
+route를 통해 페이지를 이동하는 main.dart를 작성하는 부분과 페이지들간 연동을 하는 Navigator.pushNamed이부분이 책으로는 이해하기가 어려워서 잘된 부분들을 조사하여 참고하였다.
+
+책을 다시 보면서 공부해도 아직 뭔가 Httml같으면서도 JAVA같으면서도 JS 같으면서도 안보이는 벽이라는게 느껴지는게 이게 정상인지 아니면 헛배우고 있는건지 모르겠다.
 
 # 개선점
 
